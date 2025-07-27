@@ -62,8 +62,8 @@ Asegúrate de que la versión del compilador sea 0.8.0 o superior (ej., 0.8.25).
 
 Haz clic en "Compile Vault.sol". Deberías ver una confirmación de éxito.
 
-imagenes/Contrato boveda compilado.png
 
+<img width="1429" height="766" alt="Contrato boveda compilado" src="https://github.com/user-attachments/assets/661afb3e-81dd-41f2-ab52-ee8ef9aa8f10" />
 
 Desplegar el Contrato:
 
@@ -74,8 +74,9 @@ En "Environment", selecciona Remix VM (Shanghai) o cualquier otra opción de "Re
 En el desplegable "Contract", elige VaultManager (este es el contrato principal que contiene la lógica de negocio).
 
 Haz clic en el botón "Deploy".
+<img width="1488" height="781" alt="Contrato Boveda deploy" src="https://github.com/user-attachments/assets/d6ea9f98-6d10-44c7-ade8-169f1c7a5d77" />
 
-imagenes/ Contrato Boveda deploy.png
+
 
 Interactuar con el Contrato Desplegado:
 Una vez que el contrato VaultManager esté desplegado (lo verás listado en la sección "Deployed Contracts"), podrás interactuar con sus funciones:
